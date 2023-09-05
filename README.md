@@ -1,1 +1,1 @@
-# gallery-example
+# gallery-html-css-js
